@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\XML\bin\Debug\XML.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\XML\bin\Debug\XML.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\XML\obj\Debug\XMLImporter.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\XML\obj\Debug\XML.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\XML\obj\Debug\XML.pdb

@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Correo\bin\Debug\Correo.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Correo\bin\Debug\Correo.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Correo\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Correo\obj\Debug\Correo.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Correo\obj\Debug\Correo.pdb

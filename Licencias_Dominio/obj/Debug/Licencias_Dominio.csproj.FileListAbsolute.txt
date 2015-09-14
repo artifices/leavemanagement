@@ -1,0 +1,10 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\Licencias_Dominio.dll.config
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\Licencias_Dominio.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\Licencias_Dominio.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\EntityFramework.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\EntityFramework.xml
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\obj\Debug\Licencias_Dominio.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\obj\Debug\Licencias_Dominio.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Licencias_Dominio\obj\Debug\Licencias_Dominio.pdb

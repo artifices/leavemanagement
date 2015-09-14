@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Log\bin\Debug\Log.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Log\bin\Debug\Log.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Log\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Log\obj\Debug\Log.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\Log\obj\Debug\Log.pdb

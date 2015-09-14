@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\FileObserver\bin\Debug\FileObserver.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\FileObserver\bin\Debug\FileObserver.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\FileObserver\obj\Debug\FileObserver.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\FileObserver\obj\Debug\FileObserver.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\FileObserver\obj\Debug\FileObserver.pdb

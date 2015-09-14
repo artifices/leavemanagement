@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasInterfaceLogic\bin\Debug\LicenciasInterfaceLogic.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasInterfaceLogic\bin\Debug\LicenciasInterfaceLogic.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasInterfaceLogic\obj\Debug\LicenciasInterfaceLogic.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasInterfaceLogic\obj\Debug\LicenciasInterfaceLogic.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasInterfaceLogic\obj\Debug\LicenciasInterfaceLogic.pdb

@@ -1,0 +1,5 @@
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasService\bin\LicenciasService.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasService\bin\LicenciasService.pdb
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasService\obj\Debug\LicenciasService.csprojResolveAssemblyReference.cache
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasService\obj\Debug\LicenciasService.dll
+C:\Users\171564\Documents\Visual Studio 2012\LicenciasApp\LicenciasService\obj\Debug\LicenciasService.pdb
